@@ -1,0 +1,5 @@
+# ninja log v5
+0	7756	1651397776779968371	/home/ubuntu/projects/people-counting/people-counting-centernet/CenterNet/src/lib/models/networks/dcn/build/temp.linux-x86_64-3.7/src/deform_conv_cuda_kernel.o	ec36cc6aa8054ed5
+0	15379	1651397784399911155	/home/ubuntu/projects/people-counting/people-counting-centernet/CenterNet/src/lib/models/networks/dcn/build/temp.linux-x86_64-3.7/src/deform_conv_cuda.o	4a84aa0b24f8dafe
+0	6849	1651397791627856571	/home/ubuntu/projects/people-counting/people-counting-centernet/CenterNet/src/lib/models/networks/dcn/build/temp.linux-x86_64-3.7/src/deform_pool_cuda_kernel.o	360e67b32673b386
+0	13161	1651397797935808702	/home/ubuntu/projects/people-counting/people-counting-centernet/CenterNet/src/lib/models/networks/dcn/build/temp.linux-x86_64-3.7/src/deform_pool_cuda.o	560ea66553679341
