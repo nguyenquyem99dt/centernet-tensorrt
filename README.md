@@ -38,7 +38,7 @@ cd TensorRT && git checkout release/7.0
 git submodule update --init --recursive
 cp -r ../custom-src/DCNv2 plugin/
 cp ../custom-src/InferPlugin.cpp plugin/
-cp ../custom-src/normalizePlugin.cpp plugin/
+cp ../custom-src/normalizePlugin.cpp plugin/normalizePlugin/
 cp ../custom-src/CMakeLists.txt plugin/
 ```
 ## 6. Build TensorRT with custom plugin
